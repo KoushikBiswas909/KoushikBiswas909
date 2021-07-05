@@ -47,3 +47,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikbiswas909&" alt="koushikbiswas909" /></p>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=venom_on_fire)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
