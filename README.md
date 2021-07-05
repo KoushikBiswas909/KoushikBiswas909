@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **E-Commerce Website**
 
-- 🌱 I’m currently learning **Competitive Programming, Django, Python**
+- 🌱 I’m currently learning ***Competitive Programming, Django, Python***
 
 - 👨‍💻 All of my projects are available at [https://github.com/KoushikBiswas909?tab=repositories](https://github.com/KoushikBiswas909?tab=repositories)
 
