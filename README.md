@@ -42,7 +42,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushikbiswas909&show_icons=true&locale=en&layout=compact" alt="koushikbiswas909" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koushikbiswas909&show_icons=true&locale=en" alt="koushikbiswas909" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koushikbiswas909&theme=tokyonight&show_icons=true&locale=en" alt="koushikbiswas909" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikbiswas909&" alt="koushikbiswas909" /></p>
 
