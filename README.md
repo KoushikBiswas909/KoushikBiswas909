@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushikbiswas909" alt="koushikbiswas909" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/koushik_909" target="blank"><img src="https://img.shields.io/twitter/follow/koushik_909?logo=twitter&style=for-the-badge" alt="koushik_909" /></a> </p>
+<p align="middle"> <a href="https://twitter.com/koushik_909" target="blank"><img src="https://img.shields.io/twitter/follow/koushik_909?logo=twitter&style=for-the-badge" alt="koushik_909" /></a> </p>
 
 - 🔭 I’m currently working on **E-Commerce Website**
 
