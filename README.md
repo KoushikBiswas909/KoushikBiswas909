@@ -59,6 +59,8 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=venom_on_fire&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<h3 align="center">Thanks for visiting my profile, Meet again buddy!😍</h3>
+
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
 </div>
