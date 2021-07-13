@@ -8,9 +8,7 @@
 
 <h3 align="center">A Competitive Programmer, Computer Science Student, Always Willing To Learn</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=koushikbiswas909&label=Profile%20views&color=brightgreen&style=plastic" alt="koushikbiswas909" height="35" width="150"  /> </p>
-
-https://run.kaist.ac.kr/badges/codeforces/venom_on_fire.svg
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikbiswas909&label=Profile%20views&color=brightgreen&style=plastic" alt="koushikbiswas909" height="35" width="150"  /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushikbiswas909" alt="koushikbiswas909" /></a> </p>
 
