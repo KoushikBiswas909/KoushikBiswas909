@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Koushik Biswas | Popularly Known as venom_on_fire</h1>
+h1 align="center">Hi 👋, I'm Koushik Biswas | Popularly Known as venom_on_fire</h1>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
