@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Koushik Biswas | Popularly Known as venom_on_fire</h1>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <h3 align="center">A Competitive Programmer, Computer Science Student, Always Willing To Learn</h3>
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=koushikbiswas909&label=Profile%20views&color=brightgreen&style=plastic" alt="koushikbiswas909" height="40" width="250"  /> </p>
