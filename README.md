@@ -46,7 +46,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikbiswas909&theme=radical" alt="koushikbiswas909" /></p>
 
-<img src="https://cp-cards.herokuapp.com?name=Koushik Biswas&codeforces=venom_on_fire&codechef=venom_on_fire&leetcode=venom_on_fire"/>
+<img src="https://cp-cards.herokuapp.com?name=Koushik Biswas&codeforces=venom_on_fire&codechef=venom_on_fire"/>
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=venom_on_fire&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
